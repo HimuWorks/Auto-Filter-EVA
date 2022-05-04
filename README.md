@@ -56,7 +56,7 @@ You can deploy this bot anywhere.
 
 <details><summary>Deploy To Heroku</summary>
 
-  <p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=YOUR-REPO-LINK-HERE"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+  <p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/HimuWorks/Auto-Filter-EVA"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 </details>
 
